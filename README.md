@@ -6,7 +6,7 @@
 
 ## 下载使用
 
-1. 进入 [Releases（版本下载）](../../releases) 页面，下载最新版压缩包 `发票打印助手-vX.Y.Z.zip`
+1. 进入 [Releases（版本下载）](../../releases) 页面，下载最新版压缩包 `invoice-print-helper-vX.Y.Z.zip`
 2. 解压到任意位置
 3. 双击 `index.html`，用 **Edge / Chrome** 打开
 4. 把发票文件（或整个文件夹）拖进页面即可
